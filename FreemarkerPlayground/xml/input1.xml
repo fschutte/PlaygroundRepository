@@ -1,0 +1,16 @@
+<input>
+	<user>pipo</user>
+	<latestProduct>
+		<url>blablabl</url>
+		<name>myname</name>
+	</latestProduct>
+	<row>
+		<col>een</col><col>twee</col>
+	</row>
+	<row>
+		<col>drie</col><col>vier</col>
+	</row>
+	<row>
+		<col>vijf</col><col>zes</col>
+	</row>
+</input>
